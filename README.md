@@ -1,9 +1,7 @@
-```md
 # Editkaro.in Creative Hub 🎬
 
 A modern **video portfolio website** created for **Editkaro.in**, a social media marketing and video editing agency.
-
-The platform showcases creative editing work through immersive video previews, interactive project showcases, smooth animations, and a fully responsive user experience.
+The platform highlights creative editing work through immersive video previews, interactive project showcases, smooth animations, and a responsive user experience.
 
 The goal of this project is to create a premium portfolio experience where visitors can explore editing styles, campaigns, and creative projects in an engaging way.
 
@@ -11,16 +9,16 @@ The goal of this project is to create a premium portfolio experience where visit
 
 ## ✨ Features
 
-- 🎥 Video-first portfolio experience
-- ▶️ Real video previews on project cards
-- 🔎 Category-based project filtering
-- 📂 Interactive project detail modals
-- ⭐ Featured case study showcase
-- 🔄 Before & After editing comparison
-- 🌙 Dark / Light theme support
-- 📱 Fully responsive design
-- ✨ Smooth animations and transitions
-- ♿ Accessibility-focused UI design
+* 🎥 Video-first portfolio experience
+* ▶️ Real-time video previews on project cards
+* 🔎 Category-based project filtering
+* 📂 Interactive project detail modals
+* ⭐ Featured case study showcase
+* 🔄 Before & After editing comparison
+* 🌙 Dark / Light theme support
+* 📱 Fully responsive design
+* ✨ Smooth animations and transitions
+* ♿ Accessibility-focused UI design
 
 ---
 
@@ -28,16 +26,16 @@ The goal of this project is to create a premium portfolio experience where visit
 
 The website showcases projects across multiple creative domains:
 
-- Short Form Videos
-- Long Form Videos
-- Gaming Content
-- Football Edits
-- eCommerce Advertisements
-- Documentary Style Videos
-- Color Grading Projects
-- Anime Edits
-- Brand Advertisements
-- Featured Case Studies
+* Short Form Videos
+* Long Form Videos
+* Gaming Content
+* Football Edits
+* eCommerce Advertisements
+* Documentary Style Videos
+* Color Grading Projects
+* Anime Edits
+* Brand Advertisements
+* Featured Case Studies
 
 ---
 
@@ -45,37 +43,34 @@ The website showcases projects across multiple creative domains:
 
 Built using:
 
-- **HTML5** – Website structure
-- **CSS3** – Styling, animations, and responsive layouts
-- **JavaScript (ES6)** – Interactive functionality
-- **Git LFS** – Managing large video assets
-
+* **HTML5** – Structure and content
+* **CSS3** – Styling, animations, responsive layouts
+* **JavaScript (ES6)** – Interactions and dynamic functionality
+* **Git LFS** – Managing large video assets
 ---
 
 ## 📁 Project Structure
 
 ```
-
 Editkaro-Portfolio/
 
 ├── index.html
 
 ├── css/
-│   └── style.css
+│ └── style.css
 
 ├── js/
-│   └── script.js
+│ └── script.js
 
 ├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── videos/
+│ ├── images/
+│ ├── icons/
+│ └── videos/
 
 ├── .gitattributes
 ├── LICENSE
 └── README.md
-
-````
+```
 
 ---
 
@@ -93,11 +88,11 @@ Visitors can preview work directly from portfolio cards without leaving the page
 
 Includes:
 
-- Category filtering
-- Hover video previews
-- Project showcase modals
-- Smooth transitions
-- Modern navigation experience
+* Category filtering
+* Hover video previews
+* Project showcase modals
+* Smooth transitions
+* Modern navigation experience
 
 Designed to feel like a creative agency website rather than a traditional portfolio.
 
@@ -109,7 +104,7 @@ A dedicated comparison section demonstrates the editing transformation:
 
 **Raw Footage → Professional Final Edit**
 
-This helps showcase the value of professional video editing and creative post-production.
+This helps clients understand the value of the editing process.
 
 ---
 
@@ -124,13 +119,13 @@ Includes a built-in dark/light mode system for a comfortable viewing experience 
 Clone the repository:
 
 ```bash
-git clone https://github.com/mahathi137/editkaro-creative-hub.git
-````
+git clone <repository-url>
+```
 
 Navigate into the project:
 
 ```bash
-cd editkaro-creative-hub
+cd editkaro-portfolio
 ```
 
 Open the project:
@@ -145,7 +140,7 @@ OR
 
 # 🌐 Live Website
 
-🔗 [https://your-live-link.netlify.app](https://your-live-link.netlify.app)
+🔗 https://your-live-link.netlify.app
 
 Explore the complete interactive experience with:
 
@@ -159,7 +154,7 @@ Explore the complete interactive experience with:
 
 # 📌 Project Purpose
 
-This project was developed as a modern creative portfolio solution for showcasing video editing and social media marketing work with a focus on:
+This project was developed as a modern portfolio solution for showcasing video editing and social media marketing work with a focus on:
 
 * User experience
 * Visual storytelling
@@ -170,9 +165,4 @@ This project was developed as a modern creative portfolio solution for showcasin
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
-
-Created for educational, portfolio, and demonstration purposes.
-
-```
-```
+This project is created for **educational, portfolio, and demonstration purposes**.
